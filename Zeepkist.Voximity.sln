@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeepkist.Voximity", "Zeepkist.Voximity\Zeepkist.Voximity.csproj", "{70855B02-4BC9-4276-A4A3-B73A0FEEA1F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeepkist.Voximity.Mod", "Zeepkist.Voximity.Mod\Zeepkist.Voximity.Mod.csproj", "{70855B02-4BC9-4276-A4A3-B73A0FEEA1F8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeepkist.Voximity.Proxy", "Zeepkist.Voximity.Proxy\Zeepkist.Voximity.Proxy.csproj", "{D814638A-49BB-4A7C-9D00-C12AA2ECB1F5}"
 EndProject
